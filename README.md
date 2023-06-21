@@ -5,7 +5,7 @@
 - Mondani Agustin Claudio 
 
 
-## Proyecto: Contador binario.
+## Proyecto:
 ![Tinkercad](./Imagenes/Dispositivos.PNG)
 
 
